@@ -1,0 +1,21 @@
+.chat{
+  border:1px solid black;
+  width:250px;
+  height:150px;
+}
+.head{
+  border-bottom:1px solid black;
+}
+.input{
+}
+.textfield{
+  width:195px;
+}
+.parent_div{
+  position:relative;
+  float:left;
+  margin:20px;
+}
+.chat_text{
+  margin:0px;
+}
